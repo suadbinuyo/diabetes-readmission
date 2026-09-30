@@ -1,4 +1,4 @@
-# madelon
+# Diabetes Readmission
 Machine Learning Assignment
 
 initial folder structure:
