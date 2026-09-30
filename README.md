@@ -3,6 +3,7 @@ Machine Learning Assignment
 
 initial folder structure:
 
+```
 madelon/
 ├── README.md
 ├── .gitignore
@@ -11,3 +12,4 @@ madelon/
 ├── src/
 └── data/
     └──
+```
