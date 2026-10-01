@@ -4,7 +4,7 @@ Machine Learning Assignment
 initial folder structure:
 
 ```
-madelon/
+diabetes-readmission/
 ├── README.md
 ├── .gitignore
 ├── notebooks/
