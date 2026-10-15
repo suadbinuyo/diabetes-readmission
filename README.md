@@ -8,8 +8,8 @@ diabetes-readmission/
 ├── README.md
 ├── .gitignore
 ├── notebooks/
-│   └──
+│   └── 01_ data_audit_baseline.ipynb
 ├── src/
 └── data/
-    └──
+    └── README.md
 ```
