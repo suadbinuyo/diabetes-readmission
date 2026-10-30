@@ -3,7 +3,7 @@
 ## Dataset
 - Source: UCI ML Repository — https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008
 - Licence: CC BY 4.0
-- 101,766 encounters, 47 features, target ~11% positive
+- 101,766 encounters, 47 features
 - Citation: Clore, J., Cios, K., DeShazo, J., & Strack, B. (2014). https://doi.org/10.24432/C5230J
 
 
@@ -12,6 +12,7 @@
 - Packages (see requirements.txt)
 
 ## Folder Structure
+```
 diabetes-readmission/
 ├── README.md
 ├── requirements.txt
@@ -46,7 +47,7 @@ source venv/bin/activate
 
 # Windows (PowerShell)
 venv\Scripts\Activate.ps1
-
+```
 
 ### 4. Install dependencies
 ```
