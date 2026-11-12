@@ -1,3 +1,6 @@
+# Generated with: pip freeze (Python 3.11, Windows)
+# Reproduce with: pip install -r requirements.txt
+
 anyio==4.15.1
 argon2-cffi==25.1.0
 argon2-cffi-bindings==26.1.0
